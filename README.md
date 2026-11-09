@@ -45,9 +45,15 @@ GO notification category is set to minimized.
 
 ## 📲 How to use
 
-Download `patches-*.mpp` from the latest release of this repository, or build it locally, and apply
-it to a Transit APK with Morphe Manager or
-[Morphe Desktop](https://github.com/MorpheApp/morphe-desktop):
+Tap the button on your Android device to add these patches to Morphe Manager, or add
+`https://github.com/oliver-leung/transit-patches` as a patch source in Morphe Manager:
+
+<a href="https://morphe.software/add-source?github=oliver-leung/transit-patches">
+  <img src=".github/assets/add-to-morphe.svg" alt="Add to Morphe" height="48">
+</a>
+
+With [Morphe Desktop](https://github.com/MorpheApp/morphe-desktop), download `patches-*.mpp` from
+the latest release of this repository, or build it locally, and run:
 
 ```bash
 java -jar morphe-desktop-*-all.jar patch --patches patches-*.mpp transit.xapk
