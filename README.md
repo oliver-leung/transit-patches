@@ -6,7 +6,7 @@
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
-> **[v0.1.0](https://github.com/oliver-leung/transit-patches/releases/tag/v0.1.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;1 patches total
+> **[v0.2.0](https://github.com/oliver-leung/transit-patches/releases/tag/v0.2.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;1 patches total
 <details open>
 <summary>📦 Transit&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
@@ -20,7 +20,7 @@
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
-| [GO Live Update](#go-live-update) | Shows the GO trip notification as a Live Update on Android 16 QPR1 and newer, with the remaining time in the status bar chip and the trip progress as a progress bar. |  |
+| [GO Live Update](#go-live-update) | Shows the GO trip notification as a Live Update on Android 16 QPR1 and newer, with the Dynamic Island content of the iOS app in the status bar chip and the trip progress as a progress bar. |  |
 
 </details>
 
