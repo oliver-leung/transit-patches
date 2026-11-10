@@ -33,7 +33,10 @@ On Android 16 QPR1 and newer, the GO notification is shown as a
 promoted to the top of the notification shade and the lock screen, and it shows a chip in the status
 bar.
 
-- The status bar chip shows the remaining trip time.
+- The status bar chip shows the same information as the Dynamic Island of the Transit iOS app, for
+  example the minutes until the next departure or the number of stops before you get off, with the
+  icon that Transit gives for it. If Transit gives no Dynamic Island text, the chip shows the
+  remaining trip time.
 - The notification shows the current and the next GO instruction, the arrival time and the remaining
   trip time, and the trip progress as a progress bar.
 
